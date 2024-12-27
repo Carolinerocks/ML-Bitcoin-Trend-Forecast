@@ -1,5 +1,8 @@
 # ML-Bitcoin-Trend-Forecast
 
+![GitHub Logo](https://images.ctfassets.net/q5ulk4bp65r7/lUIdMeDm9tf33LZNjPqz8/a44f28b20bd9846efc62cf5a230d875a/Learn_Illustration_Ultimate_Guide_Bitcoin.webp?w=768&fm=png)
+
+
 **1. Project Overview**
 
 This project focuses on forecasting the direction of Bitcoin price movements (rise or fall) using a machine learning model. Instead of predicting exact prices, the emphasis is on identifying whether the price will increase the next day, which is crucial for making informed investment decisions.
