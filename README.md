@@ -1,4 +1,4 @@
-# ML-Bitcoin-Trend-Prediction
+# ML-Bitcoin-Trend-Forecast
 
 **1. Project Overview**
 
